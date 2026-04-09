@@ -1,7 +1,7 @@
 url: $PI_ALT1_API_URL
-status: down
-code: 504
-responseTime: 5057
-lastUpdated: 2026-04-09T08:26:53.400Z
+status: up
+code: 200
+responseTime: 4385
+lastUpdated: 2026-04-09T09:24:32.908Z
 startTime: 2026-03-31T19:10:27.759Z
 generator: Upptime <https://github.com/upptime/upptime>
