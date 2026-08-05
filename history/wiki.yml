@@ -1,7 +1,7 @@
 url: $WIKI_API_URL
-status: up
-code: 200
-responseTime: 227
-lastUpdated: 2026-08-05T18:29:03.458Z
+status: down
+code: 429
+responseTime: 23
+lastUpdated: 2026-08-05T19:29:41.835Z
 startTime: 2022-07-16T22:12:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
