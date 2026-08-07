@@ -83,17 +83,17 @@
     "url": "$PI_ALT2_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-alt2",
-    "status": "down",
-    "uptime": "95.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "95.54%",
-    "time": 2980,
-    "timeDay": 3891,
-    "timeWeek": 4865,
-    "timeMonth": 4202,
-    "timeYear": 3072,
+    "status": "up",
+    "uptime": "95.51%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "95.51%",
+    "time": 2979,
+    "timeDay": 3425,
+    "timeWeek": 4773,
+    "timeMonth": 4186,
+    "timeYear": 3071,
     "dailyMinutesDown": {
       "2026-03-12": 52,
       "2026-03-13": 55,
@@ -149,7 +149,7 @@
       "2026-08-01": 121,
       "2026-08-02": 70,
       "2026-08-04": 59,
-      "2026-08-07": 0
+      "2026-08-07": 54
     }
   },
   {
