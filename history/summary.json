@@ -165,17 +165,17 @@
     "url": "$TK_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "89.02%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "79.55%",
+    "uptimeWeek": "85.91%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "98.48%",
     "time": 892,
-    "timeDay": 666,
-    "timeWeek": 965,
-    "timeMonth": 906,
-    "timeYear": 897,
+    "timeDay": 714,
+    "timeWeek": 966,
+    "timeMonth": 907,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-11-11": 48,
       "2026-01-09": 51,
@@ -220,7 +220,7 @@
       "2026-09-06": 520,
       "2026-09-07": 160,
       "2026-09-08": 220,
-      "2026-09-09": 159
+      "2026-09-09": 295
     }
   },
   {
