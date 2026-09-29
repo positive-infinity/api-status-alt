@@ -13,8 +13,8 @@
     "time": 2532,
     "timeDay": 2488,
     "timeWeek": 3941,
-    "timeMonth": 4310,
-    "timeYear": 2619,
+    "timeMonth": 4329,
+    "timeYear": 2620,
     "dailyMinutesDown": {
       "2026-03-27": 215,
       "2026-03-28": 49,
@@ -96,7 +96,7 @@
     "time": 3183,
     "timeDay": 1671,
     "timeWeek": 3246,
-    "timeMonth": 3220,
+    "timeMonth": 3235,
     "timeYear": 3150,
     "dailyMinutesDown": {
       "2026-03-25": 61,
@@ -167,19 +167,19 @@
     "url": "$TK_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "84.19%",
+    "uptimeDay": "84.15%",
     "uptimeWeek": "78.89%",
     "uptimeMonth": "81.56%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.48%",
     "time": 896,
-    "timeDay": 610,
-    "timeWeek": 699,
-    "timeMonth": 867,
+    "timeDay": 607,
+    "timeWeek": 696,
+    "timeMonth": 865,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2026-03-03": 122,
+      "2026-03-03": 61,
       "2026-03-04": 404,
       "2026-03-05": 249,
       "2026-03-06": 174,
@@ -237,7 +237,7 @@
       "2026-09-26": 301,
       "2026-09-27": 414,
       "2026-09-28": 325,
-      "2026-09-29": 42
+      "2026-09-29": 43
     }
   },
   {
@@ -254,7 +254,7 @@
     "time": 323,
     "timeDay": 588,
     "timeWeek": 616,
-    "timeMonth": 407,
+    "timeMonth": 408,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2026-08-05": 59,
