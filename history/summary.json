@@ -4,17 +4,17 @@
     "url": "$PI_ALT1_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-alt1",
-    "status": "down",
-    "uptime": "96.61%",
-    "uptimeDay": "65.24%",
-    "uptimeWeek": "83.13%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "96.61%",
-    "time": 2656,
-    "timeDay": 6815,
-    "timeWeek": 4619,
-    "timeMonth": 4186,
-    "timeYear": 2715,
+    "status": "up",
+    "uptime": "96.50%",
+    "uptimeDay": "42.79%",
+    "uptimeWeek": "80.05%",
+    "uptimeMonth": "92.14%",
+    "uptimeYear": "96.50%",
+    "time": 2658,
+    "timeDay": 6760,
+    "timeWeek": 4567,
+    "timeMonth": 4218,
+    "timeYear": 2718,
     "dailyMinutesDown": {
       "2026-04-04": 452,
       "2026-04-05": 177,
@@ -83,7 +83,7 @@
       "2026-10-09": 157,
       "2026-10-10": 148,
       "2026-10-11": 410,
-      "2026-10-12": 91
+      "2026-10-12": 414
     }
   },
   {
@@ -91,16 +91,16 @@
     "url": "$PI_ALT2_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-alt2",
-    "status": "down",
-    "uptime": "97.23%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "97.23%",
+    "status": "up",
+    "uptime": "97.12%",
+    "uptimeDay": "71.28%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.12%",
     "time": 3172,
-    "timeDay": 6174,
-    "timeWeek": 4698,
-    "timeMonth": 3682,
+    "timeDay": 5259,
+    "timeWeek": 4574,
+    "timeMonth": 3671,
     "timeYear": 3164,
     "dailyMinutesDown": {
       "2026-03-27": 50,
@@ -165,7 +165,7 @@
       "2026-10-01": 70,
       "2026-10-04": 190,
       "2026-10-10": 147,
-      "2026-10-12": 90
+      "2026-10-12": 414
     }
   },
   {
@@ -179,10 +179,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.43%",
     "uptimeYear": "97.37%",
-    "time": 899,
+    "time": 905,
     "timeDay": 994,
     "timeWeek": 947,
-    "timeMonth": 861,
+    "timeMonth": 863,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2026-03-04": 352,
@@ -260,8 +260,8 @@
     "time": 325,
     "timeDay": 841,
     "timeWeek": 476,
-    "timeMonth": 469,
-    "timeYear": 326,
+    "timeMonth": 471,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2026-08-05": 59,
       "2026-09-15": 224
