@@ -4,17 +4,17 @@
     "url": "$PI_ALT1_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-alt1",
-    "status": "down",
-    "uptime": "96.20%",
-    "uptimeDay": "29.91%",
-    "uptimeWeek": "75.69%",
-    "uptimeMonth": "88.76%",
-    "uptimeYear": "96.20%",
-    "time": 2712,
-    "timeDay": 14474,
-    "timeWeek": 7073,
-    "timeMonth": 4898,
-    "timeYear": 2772,
+    "status": "degraded",
+    "uptime": "96.14%",
+    "uptimeDay": "16.29%",
+    "uptimeWeek": "73.74%",
+    "uptimeMonth": "88.31%",
+    "uptimeYear": "96.14%",
+    "time": 2725,
+    "timeDay": 17281,
+    "timeWeek": 7992,
+    "timeMonth": 5129,
+    "timeYear": 2784,
     "dailyMinutesDown": {
       "2026-04-05": 177,
       "2026-04-06": 169,
@@ -86,7 +86,7 @@
       "2026-10-13": 232,
       "2026-10-15": 873,
       "2026-10-14": 176,
-      "2026-10-16": 199
+      "2026-10-16": 395
     }
   },
   {
@@ -95,14 +95,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-alt2",
     "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "30.00%",
-    "uptimeWeek": "69.73%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "96.43%",
+    "uptime": "96.37%",
+    "uptimeDay": "16.38%",
+    "uptimeWeek": "67.78%",
+    "uptimeMonth": "91.93%",
+    "uptimeYear": "96.37%",
     "time": 3239,
     "timeDay": 17080,
-    "timeWeek": 8243,
+    "timeWeek": 8429,
     "timeMonth": 4624,
     "timeYear": 3205,
     "dailyMinutesDown": {
@@ -167,7 +167,7 @@
       "2026-10-13": 646,
       "2026-10-14": 443,
       "2026-10-15": 938,
-      "2026-10-16": 199
+      "2026-10-16": 395
     }
   },
   {
@@ -183,7 +183,7 @@
     "uptimeYear": "97.37%",
     "time": 907,
     "timeDay": 1494,
-    "timeWeek": 1041,
+    "timeWeek": 1048,
     "timeMonth": 918,
     "timeYear": 915,
     "dailyMinutesDown": {
@@ -261,9 +261,9 @@
     "uptimeYear": "99.95%",
     "time": 326,
     "timeDay": 243,
-    "timeWeek": 498,
+    "timeWeek": 504,
     "timeMonth": 485,
-    "timeYear": 323,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2026-08-05": 59,
       "2026-09-15": 224
